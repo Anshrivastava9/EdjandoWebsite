@@ -1,0 +1,10 @@
+@font-face
+{
+	font-family:titillium;
+	src:url(fonts\Titillium\Titillium-Bold.otf);
+}
+
+#sipfont
+{
+	font-family:titillium;
+}
